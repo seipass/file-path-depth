@@ -1,0 +1,8 @@
+[project]
+name = "file-path-depth"
+version = "0.1.0"
+description = "Count components in filesystem paths"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
